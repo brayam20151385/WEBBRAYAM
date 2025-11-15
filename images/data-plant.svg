@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 140" width="480" height="280" role="img" aria-label="Ilustración de planta y datos">
+  <rect width="100%" height="100%" fill="none"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 100 q24 -40 64 -36 q14 -20 40 -8" stroke="#2f8f4f" stroke-width="4" fill="#dfead3" opacity="0.8"/>
+    <g stroke="#2f8f4f" stroke-width="3" fill="#fff">
+      <path d="M86 60 q8 -16 18 -10 q-6 10 -10 16"/>
+      <path d="M70 70 q10 -24 26 -16"/>
+    </g>
+    <g stroke="#7a9a5a" stroke-width="2">
+      <circle cx="160" cy="50" r="6" fill="#7a9a5a" />
+      <circle cx="186" cy="72" r="6" fill="#7a9a5a" />
+      <path d="M160 50 L186 72" />
+      <path d="M186 72 L200 42" />
+    </g>
+    <rect x="44" y="102" width="48" height="12" rx="4" fill="#7a9a5a" />
+  </g>
+</svg>
